@@ -1,0 +1,3 @@
+#!/bin/sh
+
+gcc -o vpn-gate_scraper vpn-gate_scraper.cpp -lstdc++ -lcurl -std=c++17
